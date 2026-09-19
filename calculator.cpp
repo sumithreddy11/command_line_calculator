@@ -8,9 +8,7 @@
 
 using namespace std;
 
-// ============================================================================
-// GLOBAL CONSTANTS
-// ============================================================================
+
 
 // Physical constants for temperature validation
 const double ABSOLUTE_ZERO_CELSIUS = -273.15;
