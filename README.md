@@ -68,3 +68,24 @@ This project demonstrates:
 
 Created as part of a Coursera C++ programming assignment and extended with additional features for practice and learning.
 
+## Build and run
+
+From the repository root on Windows with MinGW available in PowerShell:
+
+```powershell
+g++ calculator.cpp -o calculator.exe
+.\calculator.exe
+```
+
+On Linux or macOS with a compatible compiler:
+
+```bash
+g++ calculator.cpp -o calculator
+./calculator
+```
+
+Choose option `1` for arithmetic or `5` to exit.
+
+## License
+
+[MIT](LICENSE)
